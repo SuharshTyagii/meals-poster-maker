@@ -1,0 +1,106 @@
+{
+  "categories": [
+    {
+      "id": 1705945200000,
+      "name": "Curries"
+    },
+    {
+      "id": 1705945300000,
+      "name": "Breads"
+    },
+    {
+      "id": 1705945400000,
+      "name": "Smoothies"
+    }
+  ],
+  "meals": [
+    {
+      "id": 1705945500000,
+      "categoryId": 1705945200000,
+      "name": "Butter Chicken",
+      "items": [
+        "Chicken breast (500g)",
+        "Butter (100g)",
+        "Heavy cream (200ml)",
+        "Tomato puree (400g)",
+        "Garam masala",
+        "Ginger-garlic paste",
+        "Kasuri methi"
+      ],
+      "image": ""
+    },
+    {
+      "id": 1705945600000,
+      "categoryId": 1705945200000,
+      "name": "Palak Paneer",
+      "items": [
+        "Fresh spinach (500g)",
+        "Paneer (250g)",
+        "Onions (2)",
+        "Tomatoes (3)",
+        "Cream (100ml)",
+        "Cumin seeds",
+        "Turmeric",
+        "Red chili powder"
+      ],
+      "image": ""
+    },
+    {
+      "id": 1705945700000,
+      "categoryId": 1705945300000,
+      "name": "Garlic Naan",
+      "items": [
+        "All-purpose flour (3 cups)",
+        "Yogurt (1/2 cup)",
+        "Milk (1/4 cup)",
+        "Garlic cloves (6)",
+        "Butter",
+        "Baking powder",
+        "Sugar",
+        "Salt"
+      ],
+      "image": ""
+    },
+    {
+      "id": 1705945800000,
+      "categoryId": 1705945300000,
+      "name": "Roti",
+      "items": [
+        "Whole wheat flour (2 cups)",
+        "Water (as needed)",
+        "Salt",
+        "Oil or ghee"
+      ],
+      "image": ""
+    },
+    {
+      "id": 1705945900000,
+      "categoryId": 1705945400000,
+      "name": "Mango Lassi",
+      "items": [
+        "Ripe mangoes (2)",
+        "Yogurt (1 cup)",
+        "Milk (1/2 cup)",
+        "Sugar (to taste)",
+        "Cardamom powder",
+        "Ice cubes"
+      ],
+      "image": ""
+    },
+    {
+      "id": 1705946000000,
+      "categoryId": 1705945400000,
+      "name": "Berry Blast",
+      "items": [
+        "Mixed berries (1 cup)",
+        "Banana (1)",
+        "Greek yogurt (1/2 cup)",
+        "Honey (1 tbsp)",
+        "Almond milk (1 cup)",
+        "Chia seeds"
+      ],
+      "image": ""
+    }
+  ],
+  "exportedAt": "2024-01-22T20:00:00.000Z"
+}
