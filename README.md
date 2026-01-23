@@ -1,6 +1,8 @@
 # 🍽️ Meal Poster Maker
 
-A beautiful, responsive Vue 3 application for creating and managing meal categories and recipes. Create your personalized meal posters and export them as PDF!
+A beautiful, responsive Vue 3 application for creating and managing meal categories and recipes. Organize your kitchen, plan your meals, and export professional posters as PDF.
+
+**Live Demo: [suharshh.com/meals-poster-maker/](https://suharshh.com/meals-poster-maker/)**
 
 ## ✨ Features
 
